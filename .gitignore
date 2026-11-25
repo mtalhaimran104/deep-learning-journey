@@ -2,5 +2,8 @@
 TensorFlow/
 PyTorch/
 
+# Saved trained models
+models_saved/
+
 # Datasets
 jena_climate_2009_2016.csv
