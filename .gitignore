@@ -6,4 +6,5 @@ PyTorch/
 models_saved/
 
 # Datasets
-jena_climate_2009_2016.csv
+AirPassengers.csv
+01_weather_forecasting_project/jena_climate_2009_2016.csv
