@@ -8,3 +8,5 @@ models_saved/
 # Datasets
 AirPassengers.csv
 01_weather_forecasting_project/jena_climate_2009_2016.csv
+01_weather_forecasting_project/DailyClimateTrain.csv
+01_weather_forecasting_project/DailyClimateTest.csv
