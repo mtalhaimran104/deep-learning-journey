@@ -1,6 +1,7 @@
-# Virtual env
+# conda env
 TensorFlow/
 PyTorch/
+web_scrapping/webscrapping_env/
 
 # Saved trained models
 models_saved/
